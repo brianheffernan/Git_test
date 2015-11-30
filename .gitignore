@@ -3,7 +3,9 @@
 *.ko
 *.obj
 *.elf
-
+*.bin
+*.cogui
+*.comarker
 # Precompiled Headers
 *.gch
 *.pch
